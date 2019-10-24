@@ -13,4 +13,5 @@ img {
 .column {
   width: 400px;
   float: left;
+  background-color: pink;
 }
